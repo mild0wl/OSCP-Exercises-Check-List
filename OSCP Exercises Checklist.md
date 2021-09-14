@@ -8,7 +8,7 @@ Numbers with * means it's not required for lab report.
 - [ ] 2.6.6.1 *
 
 #### Command line fun
-- [ ] 3.1.3.2
+- [ ] 3.1.3.1
 - [ ] 3.2.5.1
 - [ ] 3.3.5.1
 - [ ] 3.5.3.1
@@ -45,8 +45,8 @@ Numbers with * means it's not required for lab report.
 - [ ] 7.6.3.6
 
 #### Vulnerability Scanning
-- [ ] 8.2.4.2
-- [ ] 8.2.5.2
+- [ ] 8.2.4.1
+- [ ] 8.2.5.1
 - [ ] 8.2.6.1
 - [ ] 8.3.1.1
 
