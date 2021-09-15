@@ -51,8 +51,8 @@ Numbers with * means it's not required for lab report.
 - [ ] 8.3.1.1
 
 #### Web Application Attacks
-- [ ] 9.3.4.1
-- [ ] 9.4.1.3
+- [ ] 9.3.3.1
+- [ ] 9.4.1.2
 - [ ] 9.4.2.5
 - [ ] 9.4.3.2
 - [ ] 9.4.4.5
