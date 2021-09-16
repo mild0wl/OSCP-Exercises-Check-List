@@ -68,7 +68,7 @@ Numbers with * means it's not required for lab report.
 - [ ] 10.2.5
 
 #### Windows Buffere Overflows
-- [ ] 11.1.1.2
+- [ ] 11.1.1.1
 - [ ] 11.2.3.1
 - [ ] 11.2.5.1
 - [ ] 11.2.7.1
@@ -77,7 +77,7 @@ Numbers with * means it's not required for lab report.
 - [ ] 11.2.10.2 - Extra Mile
 
 #### Linux Buffer Overflows
-- [ ] 12.2.1.2
+- [ ] 12.2.1.1
 - [ ] 12.3.1.1
 - [ ] 12.5.1.1
 - [ ] 12.6.1.1
