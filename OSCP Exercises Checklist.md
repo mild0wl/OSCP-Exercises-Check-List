@@ -113,7 +113,7 @@ Numbers with * means it's not required for lab report.
 #### Privilege Escalation
 - [ ] 18.1.1.13
 - [ ] 18.1.2.1
-- [ ] 18.2.3.2
+- [ ] 18.2.3.1
 - [ ] 18.2.4.1
 - [ ] 18.3.2.1
 - [ ] 18.3.3.1
@@ -132,7 +132,7 @@ Numbers with * means it's not required for lab report.
 #### Port Redirection and Tunneling
 - [ ] 20.1.1.1
 - [ ] 20.2.1.1
-- [ ] 20.2.2.2
+- [ ] 20.2.2.1
 - [ ] 20.2.3.1
 - [ ] 20.3.1.1
 - [ ] 20.4.1.1
